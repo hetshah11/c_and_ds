@@ -1,0 +1,3 @@
+het	100
+pappu	0
+dhr	1000
